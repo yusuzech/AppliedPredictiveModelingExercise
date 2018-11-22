@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542844020811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2109503266",
+    "id" : "50082444",
+    "lastKnownWriteTime" : 1542846425,
+    "last_content_update" : 1542846425401,
+    "path" : "~/Github/AppliedPredictiveModelingExercise/data_preprocessing.R",
+    "project_path" : "data_preprocessing.R",
+    "properties" : {
+        "cursorPosition" : "3,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
